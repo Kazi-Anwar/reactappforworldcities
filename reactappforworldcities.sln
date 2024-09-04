@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "reactappforworldcities", ".", "{E95F0EDA-5650-43CB-AD0E-59C196310850}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54516"
+		Debug.AspNetCompiler.PhysicalPath = "..\reactappforworldcities\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54516\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54516"
+		Release.AspNetCompiler.PhysicalPath = "..\reactappforworldcities\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54516\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54516"
+		SlnRelativePath = "..\reactappforworldcities\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95F0EDA-5650-43CB-AD0E-59C196310850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95F0EDA-5650-43CB-AD0E-59C196310850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C8953B9-1A18-43DB-9BE7-F3FB051EDBBE}
+	EndGlobalSection
+EndGlobal
